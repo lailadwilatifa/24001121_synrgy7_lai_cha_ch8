@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.listingmovie.app-mergeDebugResources-55:/layout/fragment_profile.xml",
+        "source": "com.example.listingmovie.app-main-58:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.listingmovie.app-mergeDebugResources-55:/layout/fragment_register.xml",
+        "source": "com.example.listingmovie.app-main-58:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.listingmovie.app-mergeDebugResources-55:/layout/fragment_login.xml",
+        "source": "com.example.listingmovie.app-main-58:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.listingmovie.app-mergeDebugResources-55:/layout/item_movie.xml",
+        "source": "com.example.listingmovie.app-main-58:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.example.listingmovie.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.example.listingmovie.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.listingmovie.app-mergeDebugResources-55:/layout/fragment_detail.xml",
+        "source": "com.example.listingmovie.app-main-58:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.example.listingmovie.app-mergeDebugResources-55:/layout/fragment_home.xml",
+        "source": "com.example.listingmovie.app-main-58:/layout/fragment_home.xml"
+    }
+]
